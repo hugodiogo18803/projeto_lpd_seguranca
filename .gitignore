@@ -1,0 +1,8 @@
+.DS_Store
+venv/
+.DS_Store
+.log
+.pyc
+venv/
+*.pem
+*.enc
